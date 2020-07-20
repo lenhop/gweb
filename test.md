@@ -1,4 +1,4 @@
-### (3)混合布局排版方式###
+### (3)混合布局排版方式
 ![Image text](https://github.com/lenhop/gweb/blob/master/img/multi.png)
 ```html
 <!doctype html>
