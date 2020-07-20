@@ -1,5 +1,5 @@
 ### (3)混合布局排版方式
-<div align=left>![Image text](https://github.com/lenhop/gweb/blob/master/img/multi.png)
+<div align=left>![Image text](https://github.com/lenhop/gweb/blob/master/img/multi.png)</div>
 ```html
 <!doctype html>
 <html>
