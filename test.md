@@ -1,6 +1,5 @@
-#### 四级标题 ####
-##### 五级标题 #####
-###### 六级标题 #####
+### (3)混合布局排版方式###
+![Image text](https://github.com/lenhop/gweb/blob/master/img/multi.png)
 ```html
 <!doctype html>
 <html>
